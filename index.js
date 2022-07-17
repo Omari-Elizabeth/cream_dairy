@@ -1,4 +1,5 @@
 var shedName = []
+
 function totalProduction()
         {
             var num1 = parseInt(document.getElementById("Num1").value);
