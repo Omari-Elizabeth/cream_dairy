@@ -1,4 +1,6 @@
-var shedName = []
+var shedName = new Array();
+var period = new Array();
+var production = new Array();
 
 function totalProduction()
         {
